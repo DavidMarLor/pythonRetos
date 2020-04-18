@@ -8,4 +8,3 @@ for cont in range(1000):
     if cont % 3 == 0 or cont % 5 == 0:
         sum = sum + cont
 print(sum)
-
